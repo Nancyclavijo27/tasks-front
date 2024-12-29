@@ -12,7 +12,12 @@ Task Manager es una aplicación de gestión de tareas que permite a los usuarios
 - **Frontend**: React.js, Tailwind CSS, React Context API
 - **Despliegue**:
   - Backend: [Render](task-manager-backend-06hr.onrender.com/api/tasks)
-  - Frontend: [Vercel](https://vercel.com)
+  - Frontend: [Vercel](tasks-front-m7n7dx9ot-clavijovarelagmailcoms-projects.vercel.app)
+
+  ## Documentación API
+La API está documentada con Swagger y puede ser consultada aquí:  
+[Swagger API Docs](https://task-manager-backend-06hr.onrender.com/api-docs)
+  
 
 ## Instalación
 
